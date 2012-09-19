@@ -1,0 +1,555 @@
+TFingerDance
+v7
+r0
+t311283383.006127
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B2FA6BF0000000000000110
+t1261414079
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3671890000000000000110
+t1278636425
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/stdio.h
+c000000004BF75A3D00000000000040AC
+t1274501693
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/stdlib.h
+c000000004BF75A3D0000000000002DF5
+t1274501693
+s11765
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/../../../Documents/Red Dot.jpg
+c000000004BFFD1010000000000003480
+t1275056385
+s13440
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/Classes/FingerDanceAppDelegate.h
+c000000004BFF2F6A00000000000001FB
+t1275015018
+s507
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/Classes/FingerDanceAppDelegate.m
+c000000004BFF2F6A0000000000000282
+t1275015018
+s642
+i"FingerDanceAppDelegate.h"
+i"FingerDanceViewController.h"
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/Classes/FingerDanceViewController.h
+c000000004BFFF4BF0000000000000878
+t1275065535
+s2168
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/Classes/FingerDanceViewController.m
+c000000004BFFF53A00000000000015C1
+t1275065658
+s5569
+i"FingerDanceViewController.h"
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/FingerDanceViewController.xib
+c000000004BFFD498000000000000A93D
+t1275057304
+s43325
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/FingerDance_Prefix.pch
+c000000004BFF2F6A00000000000000BF
+t1275015018
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/MainWindow.xib
+c000000004BFF2F6A000000000000247A
+t1275015018
+s9338
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app.dSYM
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDance
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDanceViewController.nib
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Info.plist
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/MainWindow.nib
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/PkgInfo
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Red Dot.jpg
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/ResourceRules.plist
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDance.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceAppDelegate.o
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceViewController.o
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/alexdr/Desktop/IPhone/FingerDance/main.m
+c000000004BFF2F6A0000000000000171
+t1275015018
+s369
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/FingerDance/../../../Downloads/iTennis/Background.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/../../../Downloads/iTennis/Default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceAppDelegate.h
+c000000004BFF2F6A00000000000001FB
+t1275015018
+s507
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceAppDelegate.m
+c000000004BFF2F6A0000000000000282
+t1275015018
+s642
+i"FingerDanceAppDelegate.h"
+i"FingerDanceViewController.h"
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceViewController.h
+c000000004C069A5E000000000000092C
+t1275501150
+s2348
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceViewController.m
+c000000004C394766000000000000727D
+t1278822246
+s29309
+i"FingerDanceViewController.h"
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/alexdr/Programming/IPhone/FingerDance/FingerDanceViewController.xib
+c000000004C3946CE000000000000B622
+t1278822094
+s46626
+
+N/Users/alexdr/Programming/IPhone/FingerDance/FingerDance_Prefix.pch
+c000000004BFF2F6A00000000000000BF
+t1275015018
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/FingerDance/MainWindow.xib
+c000000004BFF2F6A000000000000247A
+t1275015018
+s9338
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Green Circle.png
+c000000004C3942EE0000000000000D46
+t1278821102
+s3398
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Green Square.png
+c000000004C39431D0000000000000B6E
+t1278821149
+s2926
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/RED X.png
+c000000004C3943120000000000000D4F
+t1278821138
+s3407
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Yellow Circle.png
+c000000004C3943090000000000000D4A
+t1278821129
+s3402
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Yellow Square.png
+c000000004C3942FD0000000000000B6E
+t1278821117
+s2926
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app.dSYM
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Background.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Default.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDance
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDanceViewController.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Green Circle.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Green Square.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Info.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/MainWindow.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/PkgInfo
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/RED X.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/ResourceRules.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Yellow Circle.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Yellow Square.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDance
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDance.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceAppDelegate.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceViewController.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDance
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDance.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDanceAppDelegate.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDanceViewController.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/StaticAnalyzer/normal/armv6/FingerDanceAppDelegate.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/StaticAnalyzer/normal/armv6/FingerDanceViewController.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/StaticAnalyzer/normal/armv6/main.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/StaticAnalyzer/normal/armv7/FingerDanceAppDelegate.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/StaticAnalyzer/normal/armv7/FingerDanceViewController.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/StaticAnalyzer/normal/armv7/main.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/main.m
+c000000004BFF2F6A0000000000000171
+t1275015018
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-bhhgoqlmhspwmjernrrghglalzhw/FingerDance_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-cfcwfeivmgbmbqcmikoptblnxrqr/FingerDance_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-dshdhdrltpzivpgivcyhtworhaof/FingerDance_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-ewcoejgakhrqjveumfccuptfjyav/FingerDance_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-fuhrsbobagmcxwfjukglstqfdcjv/FingerDance_Prefix.pch.gch
+t2
+s0
+
+NFingerDance-Info.plist
+c000000004BFF2F6A000000000000038D
+t1275015018
+s909
+
+CAnalyze /Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceAppDelegate.m
+r0
+
+CAnalyze /Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceViewController.m
+r0
+
+CAnalyze /Users/alexdr/Programming/IPhone/FingerDance/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311283384#311283384#0(98"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile1(4@90"Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile311283384#18446744073709551615#0#0(1@0"0(0#1#0"8607306816#0"0#
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceAppDelegate.o /Users/alexdr/Desktop/IPhone/FingerDance/Classes/FingerDanceAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceAppDelegate.o /Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceViewController.o /Users/alexdr/Desktop/IPhone/FingerDance/Classes/FingerDanceViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDanceViewController.o /Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/main.o /Users/alexdr/Desktop/IPhone/FingerDance/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/main.o /Users/alexdr/Programming/IPhone/FingerDance/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDanceAppDelegate.o /Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDanceViewController.o /Users/alexdr/Programming/IPhone/FingerDance/Classes/FingerDanceViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/main.o /Users/alexdr/Programming/IPhone/FingerDance/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/alexdr/Desktop/IPhone/FingerDance/FingerDanceViewController.xib
+r0
+
+CCompileXIB /Users/alexdr/Desktop/IPhone/FingerDance/MainWindow.xib
+r0
+
+CCompileXIB /Users/alexdr/Programming/IPhone/FingerDance/FingerDanceViewController.xib
+r0
+
+CCompileXIB /Users/alexdr/Programming/IPhone/FingerDance/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Green Circle.png" "Pictures/Green Circle.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Green Square.png" "Pictures/Green Square.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/RED X.png" "Pictures/RED X.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Yellow Circle.png" "Pictures/Yellow Circle.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Yellow Square.png" "Pictures/Yellow Square.png"
+r0
+
+CCopyPNGFile /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Background.png ../../../Downloads/iTennis/Background.png
+r0
+
+CCopyPNGFile /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Default.png ../../../Downloads/iTennis/Default.png
+r0
+
+CCpResource "build/Debug-iphoneos/FingerDance.app/Red Dot.jpg" "../../../Documents/Red Dot.jpg"
+r0
+
+CCpResource build/Debug-iphoneos/FingerDance.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/FingerDance.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDance normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app.dSYM /Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDance
+r0
+
+CGenerateDSYMFile /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app.dSYM /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDance
+r0
+
+CLd /Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/FingerDance normal armv6
+r0
+
+CLd /Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv6/FingerDance normal armv6
+r0
+
+CLd /Users/alexdr/Programming/IPhone/FingerDance/build/FingerDance.build/Debug-iphoneos/FingerDance.build/Objects-normal/armv7/FingerDance normal armv7
+r0
+
+CProcessInfoPlistFile /Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Info.plist FingerDance-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app/Info.plist FingerDance-Info.plist
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-bhhgoqlmhspwmjernrrghglalzhw/FingerDance_Prefix.pch.gch FingerDance_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-cfcwfeivmgbmbqcmikoptblnxrqr/FingerDance_Prefix.pch.pth FingerDance_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-dshdhdrltpzivpgivcyhtworhaof/FingerDance_Prefix.pch.pth FingerDance_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-ewcoejgakhrqjveumfccuptfjyav/FingerDance_Prefix.pch.gch FingerDance_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerDance_Prefix-fuhrsbobagmcxwfjukglstqfdcjv/FingerDance_Prefix.pch.gch FingerDance_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/alexdr/Desktop/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app
+r0
+
+CTouch /Users/alexdr/Programming/IPhone/FingerDance/build/Debug-iphoneos/FingerDance.app
+r0
+

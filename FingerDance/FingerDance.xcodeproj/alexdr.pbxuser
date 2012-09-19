@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FingerDanceAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {949, 530}}";
+			sepNavSelRange = "{507, 0}";
+			sepNavVisRange = "{0, 507}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FingerDanceAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {949, 530}}";
+			sepNavSelRange = "{641, 0}";
+			sepNavVisRange = "{0, 642}";
+			sepNavWindowFrame = "{{15, 89}, {662, 684}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FingerDance */ = {
+		activeExec = 0;
+		executables = (
+			E82DB2C311B0052E000C9E72 /* FingerDance */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FingerDanceViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {949, 923}}";
+			sepNavSelRange = "{812, 89}";
+			sepNavVisRange = "{0, 988}";
+			sepNavWindowFrame = "{{38, 68}, {662, 684}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1386, 12131}\";\n            s = 0;\n        },\n                {\n            r = \"{20619, 7773}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 30394}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 6422}}";
+			sepNavSelRange = "{2243, 94}";
+			sepNavVisRange = "{1825, 1182}";
+			sepNavWindowFrame = "{{38, 68}, {662, 684}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E82DB2C311B0052E000C9E72 /* FingerDance */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FingerDance */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FingerDance */,
+		);
+		breakpoints = (
+			E837D71C128DD36A007F60D1 /* FingerDanceViewController.m:714 */,
+			E862ECEF12D13BFB00ADA9CB /* FingerDanceViewController.m:20 */,
+			E862ED0712D13ECA00ADA9CB /* FingerDanceViewController.m:1406 */,
+			E862ED0912D13ECF00ADA9CB /* FingerDanceViewController.m:36 */,
+		);
+		codeSenseManager = E82DB2D311B00536000C9E72 /* Code sense */;
+		executables = (
+			E82DB2C311B0052E000C9E72 /* FingerDance */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					771,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316400707;
+			PBXWorkspaceStateSaveDate = 316400707;
+		};
+		perUserProjectItems = {
+			E82ED53212D8F708008C38C5 /* PBXTextBookmark */ = E82ED53212D8F708008C38C5 /* PBXTextBookmark */;
+			E82ED53312D8F708008C38C5 /* PBXTextBookmark */ = E82ED53312D8F708008C38C5 /* PBXTextBookmark */;
+			E82ED53D12D8F747008C38C5 /* PBXTextBookmark */ = E82ED53D12D8F747008C38C5 /* PBXTextBookmark */;
+			E837D71E128DD3F4007F60D1 /* PBXBookmark */ = E837D71E128DD3F4007F60D1 /* PBXBookmark */;
+			E837D71F128DD3F4007F60D1 /* PBXBookmark */ = E837D71F128DD3F4007F60D1 /* PBXBookmark */;
+			E837D720128DD3F4007F60D1 /* PBXBookmark */ = E837D720128DD3F4007F60D1 /* PBXBookmark */;
+			E83D8C7811B6D1C200898AFE /* PBXTextBookmark */ = E83D8C7811B6D1C200898AFE /* PBXTextBookmark */;
+			E8534E4C12DBE451004D72A4 /* PBXTextBookmark */ = E8534E4C12DBE451004D72A4 /* PBXTextBookmark */;
+			E85CB6E111B19CC100ADC7C8 /* PlistBookmark */ = E85CB6E111B19CC100ADC7C8 /* PlistBookmark */;
+			E8D3CB9511E97E66003A1417 /* PBXBookmark */ = E8D3CB9511E97E66003A1417 /* PBXBookmark */;
+			E8D3CB9611E97E66003A1417 /* PBXBookmark */ = E8D3CB9611E97E66003A1417 /* PBXBookmark */;
+			E8F7842512DA536E009E9F4F /* PBXTextBookmark */ = E8F7842512DA536E009E9F4F /* PBXTextBookmark */;
+		};
+		sourceControlManager = E82DB2D211B00536000C9E72 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {672, 503}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	E82DB2C311B0052E000C9E72 /* FingerDance */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FingerDance;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E82DB2D211B00536000C9E72 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E82DB2D311B00536000C9E72 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E82ED53212D8F708008C38C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FingerDanceAppDelegate.h */;
+		name = "FingerDanceAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	E82ED53312D8F708008C38C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FingerDanceAppDelegate.m */;
+		name = "FingerDanceAppDelegate.m: 33";
+		rLen = 0;
+		rLoc = 641;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	E82ED53D12D8F747008C38C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FingerDanceViewController.h */;
+		name = "FingerDanceViewController.h: 29";
+		rLen = 89;
+		rLoc = 812;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 0;
+	};
+	E837D71C128DD36A007F60D1 /* FingerDanceViewController.m:714 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */;
+		functionName = "-sequence";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 714;
+		modificationTime = 316298088.4014069;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E837D71E128DD3F4007F60D1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E837D6FB128DD06B007F60D1 /* Default.png */;
+	};
+	E837D71F128DD3F4007F60D1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D3CB8111E979CC003A1417 /* Yellow Square.png */;
+	};
+	E837D720128DD3F4007F60D1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E837D6F8128DD04F007F60D1 /* Background.png */;
+	};
+	E83D8C7811B6D1C200898AFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	E8534E4C12DBE451004D72A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */;
+		name = "FingerDanceViewController.m: 777";
+		rLen = 94;
+		rLoc = 14373;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 13955;
+	};
+	E85CB6E111B19CC100ADC7C8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FingerDance-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/alexdr/Desktop/IPhone/FingerDance/FingerDance-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E862ECEF12D13BFB00ADA9CB /* FingerDanceViewController.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */;
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 20;
+		modificationTime = 316294515.592765;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E862ED0712D13ECA00ADA9CB /* FingerDanceViewController.m:1406 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1406;
+		modificationTime = 316294515.592584;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E862ED0912D13ECF00ADA9CB /* FingerDanceViewController.m:36 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 36;
+		modificationTime = 316294515.5929459;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E8D3CB9511E97E66003A1417 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D3CB7F11E979CC003A1417 /* Yellow Circle.png */;
+	};
+	E8D3CB9611E97E66003A1417 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D3CB7D11E979CC003A1417 /* RED X.png */;
+	};
+	E8F7842512DA536E009E9F4F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FingerDanceViewController.m */;
+		name = "FingerDanceViewController.m: 774";
+		rLen = 36;
+		rLoc = 14227;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 13955;
+	};
+}

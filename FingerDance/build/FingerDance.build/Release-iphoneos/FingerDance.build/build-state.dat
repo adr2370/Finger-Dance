@@ -1,0 +1,135 @@
+TFingerDance
+v7
+r1
+
+N/Users/alexdr/Programming/IPhone/FingerDance/../../../Downloads/iTennis/Background.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/../../../Downloads/iTennis/Default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/FingerDanceViewController.xib
+c000000004C3946CE000000000000B622
+t1278822094
+s46626
+
+N/Users/alexdr/Programming/IPhone/FingerDance/MainWindow.xib
+c000000004BFF2F6A000000000000247A
+t1275015018
+s9338
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Green Circle.png
+c000000004C3942EE0000000000000D46
+t1278821102
+s3398
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Green Square.png
+c000000004C39431D0000000000000B6E
+t1278821149
+s2926
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/RED X.png
+c000000004C3943120000000000000D4F
+t1278821138
+s3407
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Yellow Circle.png
+c000000004C3943090000000000000D4A
+t1278821129
+s3402
+
+N/Users/alexdr/Programming/IPhone/FingerDance/Pictures/Yellow Square.png
+c000000004C3942FD0000000000000B6E
+t1278821117
+s2926
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Background.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Default.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/FingerDanceViewController.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Green Circle.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Green Square.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Info.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/MainWindow.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/PkgInfo
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/RED X.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Yellow Circle.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Yellow Square.png
+t2
+s0
+
+NFingerDance-Info.plist
+c000000004BFF2F6A000000000000038D
+t1275015018
+s909
+
+CCompileXIB /Users/alexdr/Programming/IPhone/FingerDance/FingerDanceViewController.xib
+r0
+
+CCompileXIB /Users/alexdr/Programming/IPhone/FingerDance/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Green Circle.png" "Pictures/Green Circle.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Green Square.png" "Pictures/Green Square.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/RED X.png" "Pictures/RED X.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Yellow Circle.png" "Pictures/Yellow Circle.png"
+r0
+
+CCopyPNGFile "/Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Yellow Square.png" "Pictures/Yellow Square.png"
+r0
+
+CCopyPNGFile /Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Background.png ../../../Downloads/iTennis/Background.png
+r0
+
+CCopyPNGFile /Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Default.png ../../../Downloads/iTennis/Default.png
+r0
+
+CProcessInfoPlistFile /Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app/Info.plist FingerDance-Info.plist
+r0
+
+CTouch /Users/alexdr/Programming/IPhone/FingerDance/build/Release-iphoneos/FingerDance.app
+r0
+
